@@ -1,2 +1,2 @@
 # Large-Model-Evaluation
-The purpose of this project is to sort out various methods for testing and evaluating large models in different fields. 
+The purpose of this project is to sort out various methods for testing and evaluating Large Language Models(LLMs) in different fields. 
